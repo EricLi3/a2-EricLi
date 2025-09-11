@@ -28,11 +28,11 @@ TASK: Create 3 tasks, edit one of them, delete a different one, refresh page to 
 Person 1:
 1. Li
 2. Problems: Strike through is unclear, delete should have confirmation, make data more readable
-3. Comments: I'm suprised that the strik-through is unclear.
+3. Comments: I'm suprised that the strike-through is unclear.
 4. What would I change about the interface: Add a short guide at the top explaining what each possible interaction could be. The alert suggestion is a good idea. I implemented it using some help from gpt to learn how to get the edge of an element using the getBoundingClientRect() function on a selected element. The rest was similar to to the edit overlay, just with the adition of a guideSteps array of Json formatted steps to follow. 
 
 Person 2:
-1.
-2. Problems:
-3. Comments:
-4. What would I change about the interface:
+1. Zhang
+2. Problems: He didn't like the font size, found it hard to read. Too brutalist
+3. Comments: Kind of agree that the font size could be bigger, kind of aiming for a simple brutalist even layout/animations. 
+4. What would I change about the interface: make font more accessible.
